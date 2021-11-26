@@ -1,3 +1,11 @@
+# aplicacion To-Do en desarrollo (React + SweetAlert2 + Uuid)
+
+Proximamente mas funciones y mejoras..
+
+Link de la app:
+https://react-to-do-app-javiiwind.netlify.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
