@@ -1,4 +1,4 @@
-# aplicacion To-Do en desarrollo (React + SweetAlert2 + Uuid)
+# Aplicación To-Do en desarrollo (React + SweetAlert2 + Uuid)
 
 Proximamente mas funciones y mejoras..
 
